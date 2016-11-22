@@ -1,5 +1,10 @@
-//A Function to printout Hurrah! when called
+function getvalue(){
 
-function pushMe(){
-	document.getElementById("output").innerHTML="Hurrah!";
+var value=document.getElementById("smile").value;
+console.log(value);
+
+for (i=0;i<=value;i++){
+    console.log(i);
+    document.getElementById("happy").innerHTML += i+ "<br />";
+  }
 }
