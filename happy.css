@@ -1,0 +1,27 @@
+body{
+  background: black;
+}
+#wrapper{
+  background-color: blue;
+  width:750px;
+  height:800px;
+}
+#left{
+  width:200px;
+  height:200px;
+  background-color: green;
+  float: left;
+}
+#rightbody{
+  width:200px;
+  height:200px;
+  background-color: pink;
+  float: right;
+}
+#center{
+  width:200px;
+  height:200px;
+  background-color: red;
+  clear: both;
+  margin:0 auto;
+}

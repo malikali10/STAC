@@ -1,0 +1,22 @@
+body{
+  background-color: blue;
+}
+
+#wrapper{
+  background-color: green;
+  color: yellow;
+}
+#header{
+  background-color: red;
+  text-align: center;
+}
+
+#leftbody{
+  background-color: green;
+  height: 500px
+}
+
+#bottom{
+  background-color: purple;
+  height: 200px
+}

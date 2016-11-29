@@ -1,0 +1,24 @@
+h1{
+  color:blue;
+}
+#size{
+  font-size: 90px;
+  font-style: italic;
+  text-transform: capitalize;
+}
+#text{
+  text-transform: lowercase;
+}
+#wrapper{
+  width: 90px;
+  height: 100px;
+  background-color: blue;
+}
+
+#box{
+  width: 90px;
+  height:90px;
+  background-color: yellow;
+  float: left;
+  border: 10px
+}
